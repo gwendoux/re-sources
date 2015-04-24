@@ -1,0 +1,50 @@
+{
+    "javascript":[
+        {
+            "titre": "Javascript Jabber",
+            "url": "http://devchat.tv/js-jabber/",
+            "rss": "http://feeds.feedwrench.com/JavaScriptJabber.rss"
+        }
+    ],
+    "Development":[
+        {
+            "titre": "The Changelog",
+            "url": "https://changelog.com/podcast/",
+            "rss": "http://feeds.5by5.tv/changelog"
+        }
+    ],
+    "webdesign":[
+        {
+            "titre": "The Big Web Show",
+            "url": "http://5by5.tv/bigwebshow",
+            "rss": "http://feeds.5by5.tv/bigwebshow"
+        },
+        {
+            "titre": "The Path to Performance",
+            "url": "http://pathtoperf.com/",
+            "rss": "http://simplecast.fm/podcasts/1103/rss"
+        },
+        {
+            "titre": "A Responsive Web Design Podcast",
+            "url": "http://responsivewebdesign.com/podcast/",
+            "rss": "http://responsivewebdesign.com/podcast/feed.xml"
+        },
+        {
+            "titre": "ShopTalk",
+            "url": "http://shoptalkshow.com/",
+            "rss": "http://shoptalkshow.com/feed/podcast/"
+        },
+        {
+            "titre": "Style Guide Podcast",
+            "url": "http://styleguides.io/podcast/",
+            "rss": "http://feeds.soundcloud.com/users/soundcloud:users:134239947/sounds.rss"
+        }
+    ],
+    "general":[
+        {
+            "titre": "Accidental Tech Podcast",
+            "url": "http://atp.fm/",
+            "rss": "http://atp.fm/episodes?format=rss"
+        }
+    ]
+}
