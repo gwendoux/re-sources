@@ -1,0 +1,84 @@
+{
+    "development":[
+        {
+            "titre": "The Changelog Weekly",
+            "url": "https://changelog.com/weekly/"
+        },
+        {
+            "titre": "JavaScript Weekly",
+            "url": "http://javascriptweekly.com/"
+        },
+        {
+            "titre": "Web Tools Weekly",
+            "url": "http://webtoolsweekly.com/"
+        },
+        {
+            "titre": "The Offline First Reader",
+            "url": "http://offlinefirst.org/"
+        },
+        {
+            "titre": "Hackernewsletter",
+            "url": "http://www.hackernewsletter.com/"
+        },
+        {
+            "titre": "&Yet",
+            "url": "https://andyet.com/"
+        },
+        {
+            "titre": "Github trending repositories this week",
+            "url": "https://github.com/explore"
+        },
+        {
+            "titre": "Node Weekly",
+            "url": "http://nodeweekly.com/"
+        }
+    ],
+    "webdesign":[
+        {
+            "titre": "The UX Newsletter - Mailchimp",
+            "url": "http://www.theuxnewsletter.com/"
+        },
+        {
+            "titre": "Sidebar",
+            "url": "http://sidebar.io/"
+        },
+        {
+            "titre": "CSS Weekly",
+            "url": "http://css-weekly.com/"
+        },
+        {
+            "titre": "The Smashing Email Newsletter",
+            "url": "http://www.smashingmagazine.com/the-smashing-newsletter/"
+        },
+        {
+            "titre": "HTML5 Weekly",
+            "url": "http://html5weekly.com/"
+        },
+        {
+            "titre": "Web Design Weekly",
+            "url": "https://web-design-weekly.com/"
+        },
+        {
+            "titre": "Really Good Emails",
+            "url": "http://reallygoodemails.com/"
+        }
+    ],
+    "general": [
+        {
+            "titre": "Medium Weekly Digest",
+            "url": "https://medium.com/"
+        },
+        {
+            "titre": "The Modern Desk",
+            "url": "http://www.themoderndesk.com/"
+        },
+        {
+            "titre": "Instapaper Weekly",
+            "url": "https://www.instapaper.com/"
+        },
+        {
+            "titre": "Sourced",
+            "url": "http://www.sourcedhq.com/"
+        }
+    ]
+}
