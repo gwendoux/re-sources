@@ -11,6 +11,11 @@
             "titre": "The Changelog",
             "url": "https://changelog.com/podcast/",
             "rss": "http://feeds.5by5.tv/changelog"
+        },
+        {
+            "titre": "TTL Podcast",
+            "url": "http://ttlpodcast.com",
+            "rss": "http://ttlpodcast.com/feeds/rss.xml"
         }
     ],
     "webdesign":[
