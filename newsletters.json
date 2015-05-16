@@ -32,6 +32,11 @@
             "titre": "Node Weekly",
             "url": "http://nodeweekly.com/"
         }
+        ,
+        {
+            "titre": "Web operations Weekly",
+            "url": "http://webopsweekly.com"
+        }
     ],
     "webdesign":[
         {
